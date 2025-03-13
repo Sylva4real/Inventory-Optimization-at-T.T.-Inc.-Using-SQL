@@ -3,7 +3,7 @@
 
 This project focuses on optimising inventory management at T.T. Inc. using SQL (Progress SQL). By analyzing historical sales data, I identified inefficiencies in demand forecasting, stock levels, and product availability. The goal was to streamline inventory control, reduce costs, and enhance customer satisfaction through data-driven decision-making.
 
-**Business Challenges:**
+**Business Challenges**
 
 Overstock & Understock: Inefficient inventory management leading to excess costs or missed sales.
 Seasonal Demand Fluctuations: Lack of accurate demand forecasting affecting stock availability.
